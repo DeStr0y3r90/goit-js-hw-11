@@ -28,7 +28,7 @@ function getPhoto(event) {
 
       renderImages(images, list);
 
-       gallery = new SimpleLightbox('.gallery a', {
+      gallery = new SimpleLightbox('.gallery a', {
         background: 'rgba(46, 47, 66, 0.8)',
         captionDelay: 250,
         captionsData: 'alt',

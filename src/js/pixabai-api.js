@@ -1,6 +1,6 @@
 // У файлі pixabay-api.js зберігай функції для HTTP-запитів.
 
-const KEY = '42496728-577636fc2b585ecd9d4373a90';
+const KEY = '42879535-23ffe446c86780b92a1736c42';
 const BASE_URL = 'https://pixabay.com/api/';
 
 export function getImages(inputValue) {
